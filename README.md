@@ -11,6 +11,7 @@ It is based on [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim), but
 - `lua/keymappings.lua`: Key mappings for Neovim.
 
 ## Plugins
+I have a bunch of plugins installed and they will probably change a few times until i find my perfect setup (maybe even after that). 
 
 See `lua/plugins/`.
 
