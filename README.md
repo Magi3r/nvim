@@ -1,6 +1,7 @@
 # Neovim Configuration
 
 This is my personal Neovim configuration. It's set up to use lazy.nvim as the plugin manager.
+It is based on [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim), but split up in different files loosely inspired by [this video](https://youtu.be/4zyZ3sw_ulc?t=420).
 
 ## File Structure
 
