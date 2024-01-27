@@ -1,4 +1,5 @@
-    -- vimtex
+-- vimtex
 return {
     'lervag/vimtex',
 }
+
