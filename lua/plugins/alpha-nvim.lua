@@ -113,7 +113,7 @@ return {
                     end
                 end
 
-                local shortcut = tostring(i + start - 1)
+                local shortcut = tostring(i + start)
 
                 local file_button_el = file_button(fn, shortcut, short_fn, opts.autocd)
                 tbl[i] = file_button_el
